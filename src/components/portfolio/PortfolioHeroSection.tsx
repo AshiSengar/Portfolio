@@ -129,7 +129,7 @@ function PortfolioHero() {
 								<div
 									className='w-full h-full rounded-full bg-cover bg-center'
 									style={{
-										backgroundImage: 'url("mypic.jpeg")',
+										backgroundImage: "url('/MYPHOTO.jpeg')",
 										backgroundSize: "cover",
 										backgroundPosition: "top",
 									}}></div>

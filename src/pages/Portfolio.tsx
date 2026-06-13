@@ -5,21 +5,23 @@ import PortfolioFooter from "../components/portfolio/PortfolioFooter";
 import PortfolioHero from "../components/portfolio/PortfolioHeroSection";
 import PortfolioSkills from "../components/portfolio/PortfolioSkills";
 import PortfolioProjects from "../components/portfolio/PortfolioProjects";
+import PortfolioExperience from "../components/portfolio/PortfolioExperience";
 import PortfolioCertificates from "../components/portfolio/PortfolioCertificates";
 
 function Portfolio() {
-	return (
-		<>
-			<NavbarPortfolio />
-			<PortfolioHero />
-			<PortfolioSkills />
-			<PortfolioProjects />
-			<PortfolioCertificates/>
-			<PortfolioAbout />
-			<PortfolioContact />
-			<PortfolioFooter />
-		</>
-	);
+  return (
+    <>
+      <NavbarPortfolio />
+      <PortfolioHero />
+      <PortfolioSkills />
+      <PortfolioProjects />
+      <PortfolioExperience />
+      <PortfolioCertificates />
+      <PortfolioAbout />
+      <PortfolioContact />
+      <PortfolioFooter />
+    </>
+  );
 }
 
 export default Portfolio;

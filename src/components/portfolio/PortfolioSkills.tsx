@@ -22,7 +22,7 @@ function PortfolioSkills() {
 		{
 			title: "Languages",
 			icon: <Code className='w-5 h-5 text-indigo-400' />,
-			skills: ["JavaScript", "SQL", "C++"],
+			skills: ["JavaScript", "SQL", "C++", "Python"],
 		},
 		{
 			title: "System",
@@ -42,7 +42,7 @@ function PortfolioSkills() {
 		{
 			title: "Version Control",
 			icon: <GitBranch className='w-5 h-5 text-indigo-400' />,
-			skills: ["Git", "GitHub", "VS Code"],
+			skills: ["Git", "GitHub", "Postman", "VS Code"],
 		},
 		{
 			title: "Databases",

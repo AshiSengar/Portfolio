@@ -24,7 +24,7 @@ let menuIcon = (
 );
 
 // ✅ Certificates properly added (comma fixed)
-const links = ["Home", "Skills", "Projects", "Certificates", "About", "Contact"];
+const links = ["Home", "Skills", "Projects", "Experience", "Certificates", "About", "Contact"];
 
 function NavbarPortfolio() {
 	const [isOpen, setIsOpen] = useState(false);

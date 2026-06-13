@@ -30,11 +30,11 @@ function PortfolioAbout() {
 
 	const experiences = [
 		{
-			year: "June, 2024 - July, 2024",
-			position: "Full Stack Developer Intern",
-			company: "Innobyte Services",
+			year: "Jan, 2025 - Feb, 2026",
+			position: "AI Intern",
+			company: "Infosys Springboard",
 			description:
-				"Completed a hands-on Full Stack Developer internship where I developed a fully functional e-commerce web application from scratch. The project included user registration and login, email verification, secure payment gateway integration, and responsive UI design, demonstrating my skills in both frontend and backend development.",
+				"Developed an AI-powered platform, 'Concept Clarity,' with real-time personalized explanations, secure authentication, multilingual support, and an admin dashboard, showcasing my skills in full-stack development and AI integration.",
 		},
 		
 		{
@@ -61,12 +61,10 @@ function PortfolioAbout() {
 						<div className='h-1 w-10 bg-indigo-500' />
 					</div>
 					<h2 className='text-3xl md:text-4xl lg:text-5xl font-bold mb-6'>
-						My Journey & Expertise
+						Building Solutions Through Code & Innovation
 					</h2>
 					<p className='text-gray-300 max-w-3xl mx-auto text-base md:text-lg'>
-						With over 5 years of experience crafting digital
-						experiences, I combine technical expertise with creative
-						design to build solutions that make an impact.
+						Driven by curiosity and innovation, I build AI-powered solutions that are practical, user-focused, and imapctful.
 					</p>
 				</div>
 
@@ -121,7 +119,7 @@ function PortfolioAbout() {
 								<div
 									className='w-24 h-24 rounded-full bg-gradient-to-tr from-indigo-500 to-purple-600 p-1 flex-shrink-0'
 									style={{
-										backgroundImage: "url(./IMG20250403155540.jpg)",
+										backgroundImage: "url('/MYPHOTO.jpeg')",
 										backgroundSize: "cover",
 										backgroundPosition: "center",
 									}}></div>

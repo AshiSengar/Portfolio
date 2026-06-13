@@ -9,6 +9,7 @@ function PortfolioFooter() {
 		{ name: "About", href: "#" },
 		{ name: "Skills", href: "#" },
 		{ name: "Projects", href: "#" },
+		{ name: "Experience", href: "#" },
 		{ name: "Certificates", href: "#" },
 		{ name: "Contact", href: "#" },
 	];
