@@ -81,13 +81,7 @@ function PortfolioHero() {
 							</span>
 						</h1>
 						<p className='text-center px-2 md:px-0 md:text-left w-full text-[1rem] text-gray-300 mb-6 md:mb-8'>
-							Hi, Ashi Sengar, a passionate Full Stack
-							Developer and Digital Entrepreneur with a knack for
-							building powerful web experiences. With years of
-							hands-on experience in WordPress, MERN Stack, and
-							Next.js, I've successfully delivered a wide range of
-							projects—from dynamic social platforms to e-commerce
-							solutions and digital marketing tools.
+							I am a Full Stack Developer with a strong interest in the MERN Stack and modern web technologies. I enjoy building intuitive and impactful applications that combine functionality with a seamless user experience. Through practical project experience and continuous learning, I have strengthened my problem-solving abilities and technical expertise. I am passionate about innovation, professional growth, and creating solutions that make a meaningful difference.
 						</p>
 					</CardBody>
 
