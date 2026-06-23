@@ -1,4 +1,4 @@
-# MY – Portfolio
+# MY Portfolio
 
 A Modern portfolio website showcasing my projects, technical skills, and experience in building web and AI-driven applications. Developed with a focus on clean design, responsiveness, and performance.
 
